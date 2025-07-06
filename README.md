@@ -31,4 +31,4 @@ To create strong passwords and evaluate them using free online password strength
 - Always enable multi-factor authentication.
 
 ## Screenshots
-See the `/screenshots/` folder.
+See the /screenshots/.
